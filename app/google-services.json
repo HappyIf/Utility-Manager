@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:460018785902:android:8c2ce8617a89da5e70d07f",
+        "mobilesdk_app_id": "1:460018785902:android:433c69a50ddcf30670d07f",
         "android_client_info": {
-          "package_name": "com.arb.utilitymanager"
+          "package_name": "com.arb.infinitefun"
         }
       },
       "oauth_client": [
