@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460018785902",
+    "project_id": "utilitymanagerani",
+    "storage_bucket": "utilitymanagerani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460018785902:android:8c2ce8617a89da5e70d07f",
+        "android_client_info": {
+          "package_name": "com.arb.utilitymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460018785902-tfhfhsd128f4q6fnjkpsllgv31ibkgtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVgGlVO4KVwQpTSjGvowMqHqppZbEt6Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460018785902-tfhfhsd128f4q6fnjkpsllgv31ibkgtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
